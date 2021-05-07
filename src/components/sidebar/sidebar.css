@@ -1,0 +1,17 @@
+.search {
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 40px;
+  margin: 60px 10px;
+  height: 40px;
+  align-items: center;
+}
+.search > input {
+  border: none;
+  text-align: center;
+  outline: none;
+  height: 30px;
+  font-size: 20px;
+}
